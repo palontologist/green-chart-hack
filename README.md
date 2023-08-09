@@ -9,3 +9,7 @@ This repository automatically creates 1 commit a day using <i>Github Actions</i>
 
 Clean up all files is optional
 `rm -rf ./files/*.emojic`
+
+
+
+Lets gooo
